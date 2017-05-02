@@ -90,6 +90,9 @@
 				</dependency>
 			</dependencies>
 		</profile>
+		<profile>
+			<id>jar</id>
+		</profile>
 	</profiles>
 
 	<build>
